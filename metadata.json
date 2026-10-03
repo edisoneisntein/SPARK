@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Generador de Guiones Virales",
+  "description": "Una aplicación web de ingeniería inversa que transforma videos exitosos en guiones virales para nuevos temas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
